@@ -26,5 +26,4 @@ public class JobPosition {
 	@Column(name="job_position")
 	private String jobPosition;
 	
-
 }
